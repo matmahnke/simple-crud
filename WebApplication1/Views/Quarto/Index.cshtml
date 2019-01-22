@@ -1,0 +1,49 @@
+﻿@model IEnumerable<WebApplication1.Models.QuartoViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CodigoQuarto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TemHidromassagem)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TemFrigobar)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CodigoQuarto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TemHidromassagem)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TemFrigobar)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                <a onclick="return confirmarExclusao(@item.ID)" href="/Quarto/Delete/@item.ID">Delete</a>
+            </td>
+        </tr>
+    }
+
+</table>
+
+@section scripts{
+    <script src="~/Scripts/Quarto.js"></script>
+}

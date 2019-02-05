@@ -8,10 +8,10 @@ namespace FunctionalTests
     [TestClass]
     public class OtherTest
     {
-        //[TestMethod]
-        //public void testExample()
-        //{
-        //    Assert.IsTrue(true);
-        //}
+        [TestMethod]
+        public void testExample()
+        {
+            Assert.IsTrue(true);
+        }
     }
 }

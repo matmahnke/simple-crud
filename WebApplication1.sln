@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{420B9076-56DB-4568-94BC-9491E43FEB30}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{DA6FBFD3-CD00-4E0F-83D8-CC8095FE82AB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessRules", "BusinessRules\BusinessRules.csproj", "{06FD0050-86D9-4F25-B4EB-B3D17D646259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalTests", "FunctionalTests\FunctionalTests.csproj", "{9EB27300-2AD8-4353-AED8-53D610BBC068}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,8 +35,15 @@ Global
 		{06FD0050-86D9-4F25-B4EB-B3D17D646259}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06FD0050-86D9-4F25-B4EB-B3D17D646259}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06FD0050-86D9-4F25-B4EB-B3D17D646259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB27300-2AD8-4353-AED8-53D610BBC068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB27300-2AD8-4353-AED8-53D610BBC068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB27300-2AD8-4353-AED8-53D610BBC068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB27300-2AD8-4353-AED8-53D610BBC068}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {841FEF47-0549-4922-B322-2A38AFCFE0A8}
 	EndGlobalSection
 EndGlobal

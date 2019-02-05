@@ -8,7 +8,7 @@ namespace FunctionalTests
     [TestClass]
     public class OtherTest
     {
-        [TestMethod]
+        [TestMethod, Ignore]
         public void testExample()
         {
             Assert.IsTrue(true);

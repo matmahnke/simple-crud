@@ -1,0 +1,17 @@
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\bin\Release\BusinessRules.dll.config
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\bin\Release\BusinessRules.dll
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\bin\Release\BusinessRules.pdb
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\bin\Release\DataAccessLayer.dll
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\bin\Release\DTO.dll
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\bin\Release\EntityFramework.dll
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\bin\Release\DataAccessLayer.pdb
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\bin\Release\DataAccessLayer.dll.config
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\bin\Release\DTO.pdb
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\bin\Release\EntityFramework.xml
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\obj\Release\BusinessRules.csprojAssemblyReference.cache
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\obj\Release\BusinessRules.csproj.CoreCompileInputs.cache
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\obj\Release\BusinessRules.csproj.CopyComplete
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\obj\Release\BusinessRules.dll
+C:\Users\matheus.mahnke\Desktop\simple-crud\BusinessRules\obj\Release\BusinessRules.pdb

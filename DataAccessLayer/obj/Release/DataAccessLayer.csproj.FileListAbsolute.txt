@@ -1,0 +1,14 @@
+C:\Users\matheus.mahnke\Desktop\simple-crud\DataAccessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\matheus.mahnke\Desktop\simple-crud\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\matheus.mahnke\Desktop\simple-crud\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\matheus.mahnke\Desktop\simple-crud\DataAccessLayer\bin\Release\DTO.dll
+C:\Users\matheus.mahnke\Desktop\simple-crud\DataAccessLayer\bin\Release\EntityFramework.dll
+C:\Users\matheus.mahnke\Desktop\simple-crud\DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\matheus.mahnke\Desktop\simple-crud\DataAccessLayer\bin\Release\DTO.pdb
+C:\Users\matheus.mahnke\Desktop\simple-crud\DataAccessLayer\bin\Release\EntityFramework.xml
+C:\Users\matheus.mahnke\Desktop\simple-crud\DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\matheus.mahnke\Desktop\simple-crud\DataAccessLayer\obj\Release\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\matheus.mahnke\Desktop\simple-crud\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\matheus.mahnke\Desktop\simple-crud\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+C:\Users\matheus.mahnke\Desktop\simple-crud\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\matheus.mahnke\Desktop\simple-crud\DataAccessLayer\obj\Release\DataAccessLayer.pdb

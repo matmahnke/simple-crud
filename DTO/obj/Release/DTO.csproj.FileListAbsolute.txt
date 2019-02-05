@@ -1,0 +1,6 @@
+C:\Users\matheus.mahnke\Desktop\simple-crud\DTO\bin\Release\DTO.dll
+C:\Users\matheus.mahnke\Desktop\simple-crud\DTO\bin\Release\DTO.pdb
+C:\Users\matheus.mahnke\Desktop\simple-crud\DTO\obj\Release\DTO.csprojAssemblyReference.cache
+C:\Users\matheus.mahnke\Desktop\simple-crud\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+C:\Users\matheus.mahnke\Desktop\simple-crud\DTO\obj\Release\DTO.dll
+C:\Users\matheus.mahnke\Desktop\simple-crud\DTO\obj\Release\DTO.pdb
